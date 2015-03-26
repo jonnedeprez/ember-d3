@@ -24,6 +24,8 @@
     "ember-cli": "0.1.15",
     "ember-cli-6to5": "^3.0.0",
     "ember-cli-app-version": "0.3.1",
+    "ember-cli-bootstrap-sass": "^0.2.11",
+    "ember-cli-coffeescript": "0.10.0",
     "ember-cli-content-security-policy": "0.3.0",
     "ember-cli-dependency-checker": "0.0.7",
     "ember-cli-ic-ajax": "0.1.1",
@@ -33,6 +35,6 @@
     "ember-data": "1.0.0-beta.14.1",
     "ember-export-application-global": "^1.0.2",
     "express": "^4.8.5",
-    "glob": "^4.0.5"
+    "glob": "4.4.0"
   }
 }

@@ -1,0 +1,13 @@
+@import "bootstrap";
+
+body { padding: 30px }
+
+.bezirk {
+  fill: #eee;
+  stroke: #777;
+}
+
+.bezirk:hover {
+  fill: orange;
+}
+
